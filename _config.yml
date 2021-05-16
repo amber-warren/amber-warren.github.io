@@ -103,6 +103,9 @@ defaults:
 # category_archive:
 #   type: liquid
 #   path: /categories/
+head_scripts: 
+  - https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.8.335/pdf.min.js
+  
 tag_archive:
   type: liquid
   path: /tags/
