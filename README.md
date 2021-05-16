@@ -3,16 +3,16 @@ permalink: /
 title: "Amber Warren"
 ---
 
-Amber is good.
+Coming Soon.
 
-# Really big Thing
+# Heading
  
- Stuff about the thing
+ Stuff about the heading
 
-## Amber Warren is really, really great
+## Amber Warren's Subheading
 
 
-Something could be here
+Something about the subheading could be here
 
 
 ### sub sub sub heading
