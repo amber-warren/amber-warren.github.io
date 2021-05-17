@@ -7,7 +7,7 @@ Coming Soon.
 
 # Heading
  
- Stuff about the heading
+ Words will go here
 
 ## Amber Warren's Subheading
 
