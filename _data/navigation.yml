@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Vita"
     url: /vita/
+  - title: "Resources"
+    url: /resources
