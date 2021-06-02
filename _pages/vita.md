@@ -2,8 +2,6 @@
 permalink: /vita/
 title: "Vita"
 ---
-
-You can see Jay's vita [here](pfaffman-vita.pdf).
  
-<embed src="pfaffman-vita.pdf" type="application/pdf" />
+<embed src="_pages/AmberWarren_CV.pdf" type="application/pdf" />
 
