@@ -60,7 +60,7 @@ plugins:
   # This is the stuff on the left of the home page
 author:
   name   : "Amber Warren"
-  avatar : "/assets/images/amber-waren.jpg"
+  avatar : "/assets/images/amber-warren.jpg"
   bio    : "English language learning and qualitative research specialist."
   links:
     - label: "Twitter"
