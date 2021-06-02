@@ -3,7 +3,7 @@ permalink: /
 title: "Amber Warren"
 ---
 
-English language learning leader and consultant.
+English language learning specialist and consultant.
 
 # Bio
  
@@ -17,5 +17,5 @@ Amber N. Warren is an Assistant Professor of Teacher Education for Teaching Engl
 
 ### Availability
 
-Amber is available for consulting for your English language program and
+Amber is available for consulting, teacher training, and professional development for your English language program and
 can help with accreditation and other development needs. 
