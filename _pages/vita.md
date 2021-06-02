@@ -3,5 +3,5 @@ permalink: /vita/
 title: "Vita"
 ---
  
-<embed src="/_pages/AmberWarren_CV.pdf" type="application/pdf" />
+<embed height="75%" src="/_pages/AmberWarren_CV.pdf" type="application/pdf" />
 
