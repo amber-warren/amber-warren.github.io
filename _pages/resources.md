@@ -2,6 +2,9 @@
 permalink: /resources/
 title: "Resources"
 ---
+## Beyond “Turn and Talk” in ELT: Planning Productive Conversations for Learning (AE Live 11.3)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UVyvHKHjstU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teaching EFL for Young Learners
 
