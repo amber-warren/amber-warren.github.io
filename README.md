@@ -17,4 +17,4 @@ Amber N. Warren is an Associate Professor of the Practice for Multilingual Learn
 
 ### Availability
 
-Amber is available for consulting, mentoring, and professional development in literacy and language education and teacher-led action research for instructional decision-making and improvement. She also conducts trainings, needs analysis, curriculum development and provides support for accreditation or other development needs for your English language program.
+Amber is available for consulting, mentoring, and professional development in literacy and language education and teacher-led action research for instructional decision-making and improvement. She also conducts trainings, performs needs analysis, develops curricula and provides support for accreditation for English language programs.
